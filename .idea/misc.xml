@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.13 (DjangoProject)" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="12e42f3a-1487-4606-9e5b-673a3ed1ffb5" />
+  </component>
+</project>
